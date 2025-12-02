@@ -39,6 +39,6 @@ The full write-up is available in:
 │   ├── Learning curve — TF-IDF (Accuracy).png
 │   └── Learning curve — TF-IDF (Macro-F1).png
 │
+├── README.md
 ├── STAT507_Final_Report.pdf          # Final two-page report (IEEE format)
-├── requirements.txt                  # Python dependencies
-└── README.md
+└── requirements.txt                  # Python dependencies
